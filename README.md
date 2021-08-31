@@ -85,7 +85,7 @@ As we can see the AI was still really "confused" also after 100 episodes:
 
 https://user-images.githubusercontent.com/39414882/131543396-c3d88a4f-ba24-4c8d-831d-4aae1dd442dd.mp4
 
-But in the end it was able to optimal the right path!
+But in the end it was able to find the right path!
 
 https://user-images.githubusercontent.com/39414882/131543443-2343c110-7b95-4b32-986b-54a05336f22d.mp4
 
